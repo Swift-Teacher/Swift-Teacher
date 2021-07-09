@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Swift-Teacher
 - 👀 I’m interested in teaching high school students the power of computer science to create solutions for areas interest and problems using Swift.
-- 🌱 I’m currently learning more advanced Swift and C++.
+- 🌱 I’m currently learning as much Swift as I can.
 - 💞️ I’m looking to collaborate on ... uh, hmmmm. I am not sure.
 - 📫 How to reach me by email: brian@swiftteacher.org
 
